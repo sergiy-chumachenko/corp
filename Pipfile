@@ -10,6 +10,7 @@ django = "*"
 django-environ = "*"
 psycopg2binary = "*"
 flake8 = "*"
+graphene-django = "*"
 
 [requires]
 python_version = "3.6"
